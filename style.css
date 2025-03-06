@@ -1,0 +1,19 @@
+#image{
+    height: 450px;
+    object-fit: cover;
+    filter: brightness(0.7);
+
+}
+#textt{
+    height: 160px;
+}
+#text{
+    height: 135px;
+}
+#imagee{
+    height: 450px;
+    object-fit: cover;
+}
+#button{
+    align-items: center;
+}
